@@ -2,7 +2,7 @@ using System;
 using System.Collections.Generic;
 using System.IO;
 
-class Solution
+class SolutionDay1
 {
 	static void Main(String[] args)
 	{

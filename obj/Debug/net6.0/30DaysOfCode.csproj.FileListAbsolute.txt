@@ -1,0 +1,15 @@
+D:\30DaysOfCode\obj\Debug\net6.0\30DaysOfCode.csproj.AssemblyReference.cache
+D:\30DaysOfCode\obj\Debug\net6.0\30DaysOfCode.GeneratedMSBuildEditorConfig.editorconfig
+D:\30DaysOfCode\obj\Debug\net6.0\30DaysOfCode.AssemblyInfoInputs.cache
+D:\30DaysOfCode\obj\Debug\net6.0\30DaysOfCode.AssemblyInfo.cs
+D:\30DaysOfCode\obj\Debug\net6.0\30DaysOfCode.csproj.CoreCompileInputs.cache
+D:\30DaysOfCode\bin\Debug\net6.0\30DaysOfCode.exe
+D:\30DaysOfCode\bin\Debug\net6.0\30DaysOfCode.deps.json
+D:\30DaysOfCode\bin\Debug\net6.0\30DaysOfCode.runtimeconfig.json
+D:\30DaysOfCode\bin\Debug\net6.0\30DaysOfCode.dll
+D:\30DaysOfCode\bin\Debug\net6.0\30DaysOfCode.pdb
+D:\30DaysOfCode\obj\Debug\net6.0\30DaysOfCode.dll
+D:\30DaysOfCode\obj\Debug\net6.0\refint\30DaysOfCode.dll
+D:\30DaysOfCode\obj\Debug\net6.0\30DaysOfCode.pdb
+D:\30DaysOfCode\obj\Debug\net6.0\30DaysOfCode.genruntimeconfig.cache
+D:\30DaysOfCode\obj\Debug\net6.0\ref\30DaysOfCode.dll

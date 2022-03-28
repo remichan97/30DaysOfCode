@@ -2,7 +2,7 @@ using System;
 using System.Collections.Generic;
 using System.IO;
 
-class Solution {
+class SolutionDay0 {
     static void Main(String[] args) {
         // Declare a variable named 'inputString' to hold our input.
         String inputString; 
