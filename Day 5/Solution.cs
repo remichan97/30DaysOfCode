@@ -14,7 +14,7 @@ using System;
 
 
 
-class Solution
+class SolutionDay5
 {
     public static void Main(string[] args)
     {
